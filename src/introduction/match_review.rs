@@ -1,7 +1,7 @@
 pub fn match_review() {
     let number = 13;
 
-    println!("FUCK NUMBER: {}", number);
+    println!("NUMBER: {}", number);
     match number {
         1 => println!("ONE IS ONE BTW"),
         2 | 3 | 5 | 7 | 11 | 13 => println!("PRIME"),
