@@ -53,4 +53,14 @@ pub fn find_adv_fn() {
     // .map_or mean. if Option = None use default in this if statement is false
     // so if Option = Some(something) use sub.contains(&3)
     // and sub.contains(&3) mean have number 3 inside?
+    //
+    // Let see the difference between rust and c++
+    //
+    // C++
+    //
+    // if(find(v.begin+4,v.begin()+8, y) != v.end())
+    //
+    // Rust
+    //
+    // if v.get(4..8).map_or(false, |sub| sub.contains(&y))
 }
