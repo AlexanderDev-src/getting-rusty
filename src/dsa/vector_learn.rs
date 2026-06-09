@@ -36,7 +36,7 @@ pub fn find_vector_fn() {
 
     // SO why find the index only use 1 & because the & only from .iter()
     // huh? so what about position??
-    // in position function the parameter us Self::Item. See the difference?
+    // in position function the parameter us Self::Item. See the different?
 }
 
 pub fn find_adv_fn() {
@@ -54,7 +54,7 @@ pub fn find_adv_fn() {
     // so if Option = Some(something) use sub.contains(&3)
     // and sub.contains(&3) mean have number 3 inside?
     //
-    // Let see the difference between rust and c++
+    // Let see the different between rust and c++
     //
     // C++
     //
