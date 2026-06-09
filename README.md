@@ -5,6 +5,7 @@ A personal repo documenting my journey learning Rust — mostly through DSA and 
 ## What's in here
 
 - **dsa/** — data structures & algorithms
+- **mini_project/** — try to do mini project
 - **introduction/** — early experiments and syntax exploration
 
 ## Why Rust
